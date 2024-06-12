@@ -1,2 +1,2 @@
 # cybersecurity
-Another Cybersecurity ressource repo
+Another Cybersecurity ressources repo
